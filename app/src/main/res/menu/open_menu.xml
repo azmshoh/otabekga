@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/notifications"
+        android:title="@string/bildirishnoma">
+        <menu>
+            <item
+                android:id="@+id/notice"
+                android:icon="@drawable/ic_baseline_notifications_active_24"
+                android:title="@string/bildirishnoma" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/usefuls"
+        android:title="@string/foydali">
+        <menu>
+            <item
+                android:id="@+id/useful"
+                android:title="@string/foydali" />
+            <item
+                android:id="@+id/search"
+                android:icon="@drawable/ic_baseline_search_24"
+                android:title="@string/qidirish" />
+        </menu>
+    </item>
+
+</menu>

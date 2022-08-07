@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_padding">8dp</dimen>
+    <dimen name="image_size">40dp</dimen>
+    <dimen name="space_height">30dp</dimen>
+    <dimen name="padding_item_option">24dp</dimen>
+</resources>
