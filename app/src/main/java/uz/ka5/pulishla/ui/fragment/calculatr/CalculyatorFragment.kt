@@ -20,7 +20,7 @@ private lateinit var binding:FragmentCalculyatorBinding
         binding = FragmentCalculyatorBinding.inflate(layoutInflater)
         return binding.root
     }
-
+//njjnnj
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding.apply {
